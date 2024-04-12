@@ -1,0 +1,39 @@
+{
+  "name": "base.thomz",
+  "version": "1.0.0",
+  "description": "jangan lupa subs thomz",
+  "main": "connect.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node connect.js"
+  },
+  "author": "thomvelz",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@develoka/angka-terbilang-js": "latest",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^0.27.2",
+    "baileys": "latest",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "child_process": "^1.0.2",
+    "cookie": "^0.5.0",
+    "crypto": "^1.0.1",
+    "figlet": "^1.5.2",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "jimp": "^0.16.1",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "^2.6.7",
+    "node-webpmux": "^3.1.0",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "pino": "^8.1.0",
+    "qrcode": "^1.5.1",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "spinnies": "^0.5.1",
+    "util": "^0.12.5"
+  }
+}
